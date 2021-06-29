@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "dev.tehc.taterquest.mixin",
+	"compatibilityLevel": "JAVA_16",
+	"mixins": [
+	],
+	"client": [
+	],
+	"server": [
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
